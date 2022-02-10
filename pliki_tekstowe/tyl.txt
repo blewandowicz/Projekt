@@ -1,0 +1,29 @@
+Za tob¹ jest tylko œciana.
+Za tob¹ jest tylko œciana.
+Za tob¹ jest tylko œciana.
+Wracasz siê w okolice ³ó¿ka.
+Wycofujesz siê pomiêdzy ³ó¿ka.
+Podchodzisz do ³ó¿ka.
+Podchodzisz do okna.
+Wracasz na œrodek pokoju.
+Odchodzisz od telewizora trzymaj¹c siê prawej œciany.
+Za tob¹ s¹ drzwi do pokoju. Nie zamierzasz tam wracaæ.    
+Cofasz siê korytarzem.
+Cofasz siê korytarzem.
+Wycofujesz siê od schodów.
+Tam jest tylko œciana.
+Tam jest tylko œciana.   
+Nie chcesz wracaæ na górê.
+Tam jest tylko œciana.
+Cofasz siê pod œcianê.
+Odchodzisz od kanapy.
+Wracasz pod schody.
+Cofasz siê pod œcianê.       
+Robisz kilka kroków do ty³u.
+Cofaj¹c siê podchodzisz do kanapy.
+Cofaj¹c siê podchodzisz do kanapy.
+Odchodzisz od recepcji.
+Odchodzisz od okna.      
+Odchodzisz od okna.
+Odchodzisz od drzwi.
+Wracasz siê na drugi koniec recepcji.

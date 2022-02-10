@@ -1,0 +1,29 @@
+Robisz kilka kroków do przodu, odchodz¹c od ³ó¿ka.
+Idziesz naprzód, na œrodek pokoju.
+Robisz kilka kroków do przodu, odchodz¹c od ³ó¿ka. Kierujesz siê w stronê telewizora.
+Idziesz do przodu, l¹dujesz w rogu pokoju.
+Idziesz do przodu, zatrzymujesz siê przed drzwiami.
+Id¹c naprzód podchodzisz do telewizora.
+Przed tob¹ jest tylko œciana.
+Przed tob¹ s¹ zamkniête drzwi, je¿eli chcesz wyjsæ musisz je otworzyæ.
+Przed tob¹ jest tylko telewizor, a za nim œciana.
+Idziesz w g³¹b korytarza.
+Idziesz w g³¹b korytarza.
+Idziesz w g³¹b korytarza. Dotar³eœ do schodów.
+Dalej s¹ ju¿ tylko schody na dó³.
+Id¹c w przód zatrzymujesz siê obok kanapy.
+Zrobi³eœ kilka kroków naprzód i zatrzyma³eœ siê przy kanapie.
+Poszed³eœ kawa³ek do przodu i zatrzyma³eœ siê przy kanapie.
+Zrobi³eœ krok w stronê recepcji.
+Idziesz w stronê okna.
+Idziesz w stronê okna.
+Idziesz w stronê wyjœcia.
+Podchodzisz do recepcji.
+Podchodzisz do okna.
+Podchodzisz do okna.
+Podchodzisz do wyjœcia.
+Przechodzisz wzd³u¿ recepcji bli¿ej wejœcia.
+Nie zamierzasz wychodziæ przez okno.
+Nie zamierzasz wychodziæ przez okno.
+Drzwi trzeba otworzyæ.
+Dalej jest tylko œciana.

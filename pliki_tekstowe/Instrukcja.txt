@@ -1,0 +1,20 @@
+Instrukcja:
+
+Witaj w grze tekstowej!
+
+Stanowi ona wstêp do historii Mariusza Adamczyka, polskiego detektywa dzia³aj¹cego w Warszawie w niedalekiej przysz³oœci.
+ 
+Ca³oœæ gry opiera siê na tekœcie wyœwietlanym w konsoli.
+Gracz wpisuje komendy aby poruszaæ postaci¹ i wp³ywaæ na otoczenie.
+
+Dostêpne komendy to: 
+	'przod' - przesuwa postaæ o jedno pole do przodu,
+	'tyl' - przesuwa postaæ o jedno pole do ty³u,
+	'lewo' - przesuwa postaæ o jedno pole w lewo,
+	'prawo' - przesuwa postaæ o jedno pole w prawo,
+	'interakcja' - wykonuje interakcjê dostêpn¹ na danym polu,
+	'rozgladanie' - opisuje aktualne pole i otoczenie,
+	'pomoc' - wyœwietla listê dostêpnych komend,
+	'koniec' - wy³¹cza grê.
+
+Wciœnij dowolny przycisk ¿eby wróciæ do menu g³ównego.

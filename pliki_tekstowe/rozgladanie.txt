@@ -1,0 +1,29 @@
+Stoisz przy ³ó¿ku. Przy przeciwleg³ej œcianie stoi kolejne, na lewej œcianie znajduje siê okno, po prawej od wyjœcia jest telewizor.
+Stoisz pomiêdzy ³ó¿kami. Na lewej œcianie znajduje siê okno, po prawej od wyjœcia jest telewizor.
+Stoisz przy ³ó¿ku. Przy przeciwleg³ej œcianie stoi kolejne, na lewej œcianie znajduje siê okno, po prawej od wyjœcia jest telewizor.
+Stoisz przy oknie. Za tob¹ stoj¹ ³ó¿ka, przed tob¹ jest wyjœcie i telewizor.
+Stoisz na œrodku pokoju. Za tob¹ stoj¹ ³ó¿ka, po lewej jest okno, przed tob¹ jest wyjœcie, a na prawo do niego telewizor.
+Stoisz przy prawej œcianie. Przed tob¹ stoi telewizor, obok niego wyjœcie. Za tob¹ s¹ ³ó¿ka, a na przeciwleg³ej œcianie okno.
+Stoisz w rogu pokoju. Na prawo od ciebie jest wyjœcie i telewizor, za tob¹ okno i ³ó¿ka.
+Stoisz przed drzwiami. Po prawej stoi telewizor, za tob¹ s¹ ³ó¿ka, a po lewej okno.
+Stoisz przed telewizorem. Po lewej stronie s¹ drzwi i okno, za tob¹ stoj¹ ³ó¿ka.
+Stoisz w korytarzu. Za tob¹ jest wejœcie do twojego pokoju, po bokach wisz¹ obrazy, przed tob¹ widzisz schody na dó³.
+Stoisz w korytarzu. Za tob¹ jest wejœcie do twojego pokoju, po znajduj¹ siê drzwi do innych pokoi, przed tob¹ widzisz schody na dó³.
+Stoisz w korytarzu. Za tob¹ jest wejœcie do twojego pokoju, po bokach wisz¹ obrazy, przed tob¹ widzisz schody na dó³.
+Stoisz przy schodach. Za tob¹ jest wejœcie do twojego pokoju.
+Stoisz w roku pomieszczenia. Na œrodku stoi stó³ otoczony kanapami. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz po lewej od schodów. Przed tob¹ stoi stó³ otoczony kilkoma kanapami. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz przed schodami. Przed tob¹ stoi stó³ otoczony dwoma kanapami. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz po prawej od schodów. Na œrodku stoi stó³ otoczony dwoma kanapami. Przed tob¹, przy wyjœciu, znajduje siê recepcja.
+Stoisz przy lewej œcianie. Obok ciebie znajduje siê kanapa. Przed tob¹ jest du¿e, podwójne okno z widokiem na zewn¹trz. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz przy jednej z kanap na œrodku pomieszczenia. Przed tob¹ jest du¿e, podwójne okno z widokiem na zewn¹trz. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz przy jednej z kanap na œrodku pomieszczenia. Przed tob¹ s¹ drzwi prowadz¹ce na zewn¹trz. Po prawej, przy wyjœciu, znajduje siê recepcja.
+Stoisz przy prawej œcianie. Obok ciebie s¹ kanapy, przed tob¹ jest recepcja.
+Stoisz przy lewej œcianie. Przed tob¹ jest du¿e, podwójne okno z widokiem na zewn¹trz. Za tob¹ stoj¹ kanapy. Po prawej, przy wyjœciu znajduje siê recepcja.
+Stoisz na srodku pomieszczenia. Przed tob¹ jest du¿e, podwójne okno z widokiem na zewn¹trz, za tob¹ stoj¹ kanapy. Po prawej, przy wyjœciu znajduje siê recepcja.
+Stoisz na srodku pomieszczenia. Przed tob¹ s¹ drzwi prowadz¹ce na zewn¹trz. Obok ciebie jest recepcja.
+Stoisz przed recepcj¹. Za tob¹ s¹ kanapy, przed tob¹ jest wyjœcie. Recepcjonista spogl¹da na ciebie znad ekranu komputera.
+Stoisz przy lewej stronie okna. Za tob¹ s¹ kanapy. Po prawej, przy wyjœciu znajduje siê recepcja.
+Stoisz przy prawej stronie okna. Za tob¹ s¹ kanapy. Po prawej, przy wyjœciu znajduje siê recepcja.
+Stoisz przy wyjœciu. Za tob¹ s¹ kanapy. Obok ciebie jest recepcja.
+Stoisz przed recepcj¹. Obok ciebie jest wyjœcie. Recepcjonista spogl¹da na ciebie znad ekranu komputera.

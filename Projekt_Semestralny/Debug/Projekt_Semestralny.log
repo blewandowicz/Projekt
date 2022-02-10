@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(184,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(200,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(218,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(238,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(258,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(284,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Projekt_Semestralny\main.cpp(43): warning C4715: "wyszukajTekst”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt_Semestralny.vcxproj -> C:\Users\Bartek\Desktop\Projekt\Projekt_Semestralny\Debug\Projekt_Semestralny.exe

@@ -1,0 +1,29 @@
+Tam jest tylko œciana.
+Podchodzisz do ³ó¿ka.
+Wchodzisz miêdzy ³ó¿ka.
+Uœwiadamiasz sobie, ze wyjœcie przez okno nie jest dobrym pomys³em.
+Idziesz pod okno.
+Idziesz na œrodek pokoju.
+Tam jest œciana.
+Idziesz pod œcianê.
+Odchodzisz od telewizora i stajesz przed drzwiami.
+Tam jest obraz.
+Nie bêdziesz wchodzi³ do czyjegoœ pokoju.
+Tam jest obraz.
+Tam jest œciana.
+Tam jest œciana.
+Idziesz pod œcianê.
+Odchodzisz spod schodów.
+Podchodzisz pod schody.
+Tam jest œciana.
+Odchodzisz od kanapy.
+Podchodzisz do drugiej kanapy.
+Podchodzisz do kanapy.
+Tam jest œciana
+Podchodzisz do œciany.
+Zrobi³eœ kilka kroków w lewo.
+Odszed³eœ od recepcji.
+Tam jest œciana.
+Przesuwasz siê na lew¹ stronê okna.
+Odchodzisz od drzwi i stajesz przed oknem.
+Odchodzisz od recepcji i stajesz przed drzwiami.
